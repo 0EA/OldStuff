@@ -1,0 +1,23 @@
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\bin\Release\KitapKayıt.exe.config
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\bin\Release\KitapKayıt.exe
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\bin\Release\KitapKayıt.pdb
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\obj\Release\KitapKayıt.csprojResolveAssemblyReference.cache
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\obj\Release\KitapKayıt.Form1.resources
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\obj\Release\KitapKayıt.Form2.resources
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\obj\Release\KitapKayıt.Properties.Resources.resources
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\obj\Release\KitapKayıt.csproj.GenerateResource.Cache
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\obj\Release\KitapKayıt.exe
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\obj\Release\KitapKayıt.pdb
+D:\Harddisk\PROJECTS\KitapKayıt\KitapKayıt\bin\Release\KitapKayıt.exe.config
+D:\Harddisk\PROJECTS\KitapKayıt\KitapKayıt\obj\Release\KitapKayıt.exe
+D:\Harddisk\PROJECTS\KitapKayıt\KitapKayıt\obj\Release\KitapKayıt.pdb
+F:\Harddisk\PROJECTS\KitapKayıt\KitapKayıt\bin\Release\KitapKayıt.exe.config
+F:\Harddisk\PROJECTS\KitapKayıt\KitapKayıt\obj\Release\KitapKayıt.exe
+F:\Harddisk\PROJECTS\KitapKayıt\KitapKayıt\obj\Release\KitapKayıt.pdb
+F:\Harddisk\PROJECTS\KitapKayıt\KitapKayıt\bin\Release\KitapKayıt.exe
+F:\Harddisk\PROJECTS\KitapKayıt\KitapKayıt\bin\Release\KitapKayıt.pdb
+F:\Harddisk\PROJECTS\KitapKayıt\KitapKayıt\obj\Release\KitapKayıt.csprojResolveAssemblyReference.cache
+F:\Harddisk\PROJECTS\KitapKayıt\KitapKayıt\obj\Release\KitapKayıt.Form1.resources
+F:\Harddisk\PROJECTS\KitapKayıt\KitapKayıt\obj\Release\KitapKayıt.Form2.resources
+F:\Harddisk\PROJECTS\KitapKayıt\KitapKayıt\obj\Release\KitapKayıt.Properties.Resources.resources
+F:\Harddisk\PROJECTS\KitapKayıt\KitapKayıt\obj\Release\KitapKayıt.csproj.GenerateResource.Cache

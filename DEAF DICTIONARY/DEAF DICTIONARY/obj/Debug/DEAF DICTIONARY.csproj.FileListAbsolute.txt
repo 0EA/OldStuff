@@ -1,0 +1,20 @@
+c:\users\ie\documents\visual studio 2015\Projects\DEAF DICTIONARY\DEAF DICTIONARY\bin\Debug\DEAF DICTIONARY.exe.config
+c:\users\ie\documents\visual studio 2015\Projects\DEAF DICTIONARY\DEAF DICTIONARY\bin\Debug\DEAF DICTIONARY.exe
+c:\users\ie\documents\visual studio 2015\Projects\DEAF DICTIONARY\DEAF DICTIONARY\bin\Debug\DEAF DICTIONARY.pdb
+c:\users\ie\documents\visual studio 2015\Projects\DEAF DICTIONARY\DEAF DICTIONARY\obj\Debug\DEAF DICTIONARY.csprojResolveAssemblyReference.cache
+c:\users\ie\documents\visual studio 2015\Projects\DEAF DICTIONARY\DEAF DICTIONARY\obj\Debug\DEAF_DICTIONARY.Form1.resources
+c:\users\ie\documents\visual studio 2015\Projects\DEAF DICTIONARY\DEAF DICTIONARY\obj\Debug\DEAF_DICTIONARY.Properties.Resources.resources
+c:\users\ie\documents\visual studio 2015\Projects\DEAF DICTIONARY\DEAF DICTIONARY\obj\Debug\DEAF DICTIONARY.csproj.GenerateResource.Cache
+c:\users\ie\documents\visual studio 2015\Projects\DEAF DICTIONARY\DEAF DICTIONARY\obj\Debug\DEAF DICTIONARY.exe
+c:\users\ie\documents\visual studio 2015\Projects\DEAF DICTIONARY\DEAF DICTIONARY\obj\Debug\DEAF DICTIONARY.pdb
+c:\users\ie\documents\visual studio 2015\Projects\DEAF DICTIONARY\DEAF DICTIONARY\bin\Debug\Interop.WMPLib.dll
+c:\users\ie\documents\visual studio 2015\Projects\DEAF DICTIONARY\DEAF DICTIONARY\bin\Debug\AxInterop.WMPLib.dll
+c:\users\ie\documents\visual studio 2015\Projects\DEAF DICTIONARY\DEAF DICTIONARY\obj\Debug\Interop.WMPLib.dll
+c:\users\ie\documents\visual studio 2015\Projects\DEAF DICTIONARY\DEAF DICTIONARY\obj\Debug\AxInterop.WMPLib.dll
+c:\users\ie\documents\visual studio 2015\Projects\DEAF DICTIONARY\DEAF DICTIONARY\obj\Debug\DEAF DICTIONARY.csproj.ResolveComReference.cache
+F:\Harddisk\PROJECTS\DEAF DICTIONARY\DEAF DICTIONARY\bin\Debug\DEAF DICTIONARY.exe.config
+F:\Harddisk\PROJECTS\DEAF DICTIONARY\DEAF DICTIONARY\obj\Debug\Interop.WMPLib.dll
+F:\Harddisk\PROJECTS\DEAF DICTIONARY\DEAF DICTIONARY\obj\Debug\AxInterop.WMPLib.dll
+F:\Harddisk\PROJECTS\DEAF DICTIONARY\DEAF DICTIONARY\obj\Debug\DEAF DICTIONARY.csproj.ResolveComReference.cache
+F:\Harddisk\PROJECTS\DEAF DICTIONARY\DEAF DICTIONARY\obj\Debug\DEAF DICTIONARY.exe
+F:\Harddisk\PROJECTS\DEAF DICTIONARY\DEAF DICTIONARY\obj\Debug\DEAF DICTIONARY.pdb

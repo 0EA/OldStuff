@@ -1,0 +1,12 @@
+c:\users\ie\documents\visual studio 2015\Projects\ADVERTISEMENT PLUS\ADVERTISEMENT PLUS\bin\Debug\ADVERTISEMENT PLUS.exe.config
+c:\users\ie\documents\visual studio 2015\Projects\ADVERTISEMENT PLUS\ADVERTISEMENT PLUS\bin\Debug\ADVERTISEMENT PLUS.exe
+c:\users\ie\documents\visual studio 2015\Projects\ADVERTISEMENT PLUS\ADVERTISEMENT PLUS\bin\Debug\ADVERTISEMENT PLUS.pdb
+c:\users\ie\documents\visual studio 2015\Projects\ADVERTISEMENT PLUS\ADVERTISEMENT PLUS\obj\Debug\ADVERTISEMENT PLUS.csprojResolveAssemblyReference.cache
+c:\users\ie\documents\visual studio 2015\Projects\ADVERTISEMENT PLUS\ADVERTISEMENT PLUS\obj\Debug\ADVERTISEMENT_PLUS.Form1.resources
+c:\users\ie\documents\visual studio 2015\Projects\ADVERTISEMENT PLUS\ADVERTISEMENT PLUS\obj\Debug\ADVERTISEMENT_PLUS.Properties.Resources.resources
+c:\users\ie\documents\visual studio 2015\Projects\ADVERTISEMENT PLUS\ADVERTISEMENT PLUS\obj\Debug\ADVERTISEMENT PLUS.csproj.GenerateResource.Cache
+c:\users\ie\documents\visual studio 2015\Projects\ADVERTISEMENT PLUS\ADVERTISEMENT PLUS\obj\Debug\ADVERTISEMENT PLUS.exe
+c:\users\ie\documents\visual studio 2015\Projects\ADVERTISEMENT PLUS\ADVERTISEMENT PLUS\obj\Debug\ADVERTISEMENT PLUS.pdb
+F:\Harddisk\PROJECTS\ADVERTISEMENT PLUS\ADVERTISEMENT PLUS\bin\Debug\ADVERTISEMENT PLUS.exe.config
+F:\Harddisk\PROJECTS\ADVERTISEMENT PLUS\ADVERTISEMENT PLUS\obj\Debug\ADVERTISEMENT PLUS.exe
+F:\Harddisk\PROJECTS\ADVERTISEMENT PLUS\ADVERTISEMENT PLUS\obj\Debug\ADVERTISEMENT PLUS.pdb

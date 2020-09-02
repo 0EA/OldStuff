@@ -1,0 +1,10 @@
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\bin\Debug\KitapKayıt.exe.config
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\bin\Debug\KitapKayıt.exe
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\bin\Debug\KitapKayıt.pdb
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\obj\Debug\KitapKayıt.csprojResolveAssemblyReference.cache
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\obj\Debug\KitapKayıt.Form1.resources
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\obj\Debug\KitapKayıt.Form2.resources
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\obj\Debug\KitapKayıt.Properties.Resources.resources
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\obj\Debug\KitapKayıt.csproj.GenerateResource.Cache
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\obj\Debug\KitapKayıt.exe
+c:\users\ie\documents\visual studio 2015\Projects\KitapKayıt\KitapKayıt\obj\Debug\KitapKayıt.pdb
